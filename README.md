@@ -1,2 +1,2 @@
-# Google_Analytics_Capstone_Project
-A data analysis project exploring how Cyclistic’s annual members and casual riders use the bike-share service differently. Using R, I cleaned and combined 12 months of trip data (5.6M+ rows) and produced summary tables for user types, weekdays, and hourly trends. Excel was used to build PivotTables and visualisations to uncover patterns in ride length, usage behaviour, and peak times. The insights support targeted marketing strategies to convert casual riders into annual members.
+# Case Studies
+End-to-end data analytics case studies showcasing business problem-solving using Excel, SQL, Python, and data visualisation.
